@@ -1,0 +1,7 @@
+apple:яблуко
+book:книга
+house:будинок
+water:вода
+school:школа
+friend:друг
+музика:music
