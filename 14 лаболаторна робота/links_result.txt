@@ -1,0 +1,4 @@
+https://www.python.org - посилань на .com: 20
+https://github.com - посилань на .com: 139
+https://uk.wikipedia.org/wiki/Python - посилань на .com: 18
+Усього посилань на сайти домену .com: 177
